@@ -1,6 +1,6 @@
-# 📊 Projeto Agro Dal Piva Invest — Dashboard & Documentação
+# 📊 Desafio - APP Criando Um Dashboard De Vendas Do Xbox Com Excel.
 
-Este projeto foi desenvolvido focando em boas práticas de design, organização de dados e navegação intuitiva, garantindo um *layout* profissional, atraente e altamente funcional.
+O objetivo deste desafio é criar um dashboard de vendas, com foco na organização e visualização de dados. Transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
 
 ---
 
